@@ -1,0 +1,27 @@
+form {
+    margin-top: 36px
+}
+
+
+.image{
+    margin-top: -6px;
+}
+
+h1 {
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+    margin: 0;
+}
+
+
+
+.text {
+    margin: 28px 33px 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}

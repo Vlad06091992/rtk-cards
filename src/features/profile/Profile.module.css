@@ -1,0 +1,45 @@
+.profile {
+    margin-top: 36px
+}
+
+
+.ava{
+    margin-top: -6px;
+}
+
+.ava img{
+    border-radius: 50%;
+    width: 96px;
+    height: 96px;
+}
+
+h1 {
+    padding-top: 25px !important;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 32px;
+    margin: 0;
+}
+
+.userName{
+    margin-top: 30px;
+}
+
+.email {
+    margin-top: 20px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+
+.text {
+    margin: 28px 33px 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}

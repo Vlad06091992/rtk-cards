@@ -1,0 +1,78 @@
+.main {
+    color: darkblue;
+}
+
+form{
+margin-top: 41px
+}
+
+.passwordFieldDiv{
+margin-top: 24px
+}
+
+.checkBoxDiv{
+    text-align: left;
+    display: flex;
+    align-items: center;
+    margin-top: 24px;
+}
+
+h1 {
+    /*padding-top: 35px;*/
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+
+}
+
+.descriptionSpan {
+    margin-left: 11px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+
+}
+
+
+.forgotPassword {
+    width: 144px;
+    margin-right: 37px;
+    margin-left: auto;
+    margin-top: 25px;
+}
+
+.linkToRecoveryPassword{
+    text-decoration: none;
+}
+
+
+.buttonLogin{
+    margin-top: 69px;
+    width: 347px;
+    border-radius: 18px;
+    text-transform: capitalize;
+}
+
+.noAccount {
+    margin-top: 31px;
+    margin-bottom: 5px;
+    opacity: 0.5;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+.buttonRegister {
+    color: green;
+    text-transform: capitalize;
+    margin-bottom: 42px
+}
+
+.myButton {
+    text-transform: capitalize;
+    margin-bottom: 42px;
+}
+
